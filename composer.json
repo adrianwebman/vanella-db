@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Vanella\\Database" : "src/"
+            "Vanella\\Database\\" : "src/"
         }
     },
     "minimum-stability": "dev",
