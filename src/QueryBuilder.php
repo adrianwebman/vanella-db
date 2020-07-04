@@ -1,6 +1,6 @@
 <?php
 
-namespace Vanella;
+namespace Vanella\Database;
 
 use PDO;
 
