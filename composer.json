@@ -1,0 +1,19 @@
+{
+    "name": "afnav/vanella-db",
+    "description": "An integratable query builder class using native PDO in php.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adrian",
+            "email": "afnavaja@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vanella\\Database" : "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
